@@ -14,8 +14,7 @@ This Android app provides current weather information for any location worldwide
 * Fetches weather data from a weather API.
 
 ## Screenshots
-![Screenshot_20250110_155308_Android Weather App](https://github.com/user-attachments/assets/ed9d480e-7bec-4fe3-b11c-973e299b8ad6)
-![Screenshot_20250110_155251_Android Weather App](https://github.com/user-attachments/assets/0a3fc834-d031-420a-b5b7-f98f01b03da7)
+<img src="https://github.com/user-attachments/assets/ed9d480e-7bec-4fe3-b11c-973e299b8ad6" alt="Screenshot_20250110_155308_Android Weather App" width="200">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/user-attachments/assets/0a3fc834-d031-420a-b5b7-f98f01b03da7" alt="Screenshot_20250110_155251_Android Weather App" width="200">
 
 
 ## Technologies Used
