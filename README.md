@@ -14,8 +14,9 @@ This Android app provides current weather information for any location worldwide
 * Fetches weather data from a weather API.
 
 ## Screenshots
+![Screenshot_20250110_155308_Android Weather App](https://github.com/user-attachments/assets/ed9d480e-7bec-4fe3-b11c-973e299b8ad6)
+![Screenshot_20250110_155251_Android Weather App](https://github.com/user-attachments/assets/0a3fc834-d031-420a-b5b7-f98f01b03da7)
 
-[Include screenshots of your app here.]
 
 ## Technologies Used
 
@@ -29,7 +30,7 @@ This Android app provides current weather information for any location worldwide
 
 ## Setup
 
-1. Clone the repository: `git clone [repository URL]`
+1. Clone the repository: `https://github.com/ShubhVats/AndroidWeatherApp`
 2. Open the project in Android Studio.
 3. Build and run the app on an emulator or device.
 
